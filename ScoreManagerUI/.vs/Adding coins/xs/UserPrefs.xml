@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{17362986-D18B-1033-485C-9B7211DF1A0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Collectables.cs">
+    <Files>
+      <File FileName="Assets/script/Ball.cs" Line="13" Column="39" />
+      <File FileName="Assets/script/Collectables.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adding coins" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="Collectables.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f10c01fc-d2ca-482a-8a44-00d9adcb7b48" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
