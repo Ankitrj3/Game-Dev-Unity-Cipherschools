@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C4E04E6B-4A40-2850-A85E-1216FBA79D00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/IntoUi.cs">
+    <Files>
+      <File FileName="Assets/script/IntoUi.cs" Line="38" Column="1" />
+      <File FileName="Assets/script/GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/SceneManagement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstructionPannel" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="IntoUi.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54bd9971-a426-434d-bf5e-a119a7334c1a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

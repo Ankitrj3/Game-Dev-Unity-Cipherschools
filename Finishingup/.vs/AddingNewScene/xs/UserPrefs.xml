@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4E6AB664-4F33-0424-0FC0-0127D553847B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/SceneManagement.cs">
+    <Files>
+      <File FileName="Assets/script/GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/SceneManager.cs" Line="7" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AddingNewScene" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="SceneManagement.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="145afecb-5797-4b3d-be23-dc1c3e854e2d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
