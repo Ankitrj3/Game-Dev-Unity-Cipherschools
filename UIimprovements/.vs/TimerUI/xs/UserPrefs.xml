@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{59DE38FF-F381-1F94-5D02-966D8A796BD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/CollectablesManager.cs">
+    <Files>
+      <File FileName="Assets/script/Timer.cs" Line="73" Column="40" />
+      <File FileName="Assets/script/CollectablesManager.cs" Line="25" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimerUI" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="CollectablesManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c10bac0-4dc2-4bf2-94d5-43045f3fbaaa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
