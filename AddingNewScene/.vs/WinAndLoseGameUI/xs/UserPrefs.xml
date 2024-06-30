@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CD404EC7-5A8D-DD38-6586-3C6A7DE7B1BD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/CameraFollowScript.cs">
+    <Files>
+      <File FileName="Assets/script/GameManagerScript.cs" Line="88" Column="1" />
+      <File FileName="Assets/script/Timer.cs" Line="119" Column="31" />
+      <File FileName="Assets/script/CameraFollowScript.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WinAndLoseGameUI" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="CameraFollowScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9add8d43-ea44-4213-8066-7c1397c62895" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
